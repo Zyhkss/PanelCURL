@@ -1,7 +1,7 @@
   ---
   deployment:
     tasks:
-    - export DEPLOYPATH=/home/awcods/public_html/
+    - export DEPLOYPATH=/home/xxawcod/public_html/
     - /bin/cp index.php $DEPLOYPATH
     - /bin/cp apiii.php $DEPLOYPATH
     - /bin/cp -R panel $DEPLOYPATH
