@@ -1,3 +1,4 @@
+konst
 <?php
 include 'data.php';
 ?>
