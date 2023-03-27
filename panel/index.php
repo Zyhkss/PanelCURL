@@ -1,8 +1,8 @@
-konst
 <?php
 include 'data.php';
 ?>
 <!DOCTYPE html>
+kontol
 <html lang="en" >
 <head>
   <meta charset="UTF-8">
